@@ -1,5 +1,4 @@
-console.log("Hello")
+console.log("Hello! How are you")
 
-const name = "Jalal"
-
+const name = "Sahil"
 console.log("My name is "+ name);
