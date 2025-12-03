@@ -1,5 +1,3 @@
 # Hello
 
-# Hi
-
-# Name = `Arshad`
+- My name is `Arshad`

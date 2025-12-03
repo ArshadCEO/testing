@@ -1,4 +1,3 @@
-console.log("Hello")
-console.log("Hii")
+console.log("Hello! How are you")
 
-const name = "Arshad"
+const name = "Sahil"
